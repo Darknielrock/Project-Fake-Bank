@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\background\\kafkabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\background\\kafkabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.application\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|solutionrelative:paymentgateway.application\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37D8EB18-BCEA-AD9D-3CE2-31A9B6A55B8D}|PaymentGateway.Api\\PaymentGateway.Api.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D8EB18-BCEA-AD9D-3CE2-31A9B6A55B8D}|PaymentGateway.Api\\PaymentGateway.Api.csproj|solutionrelative:paymentgateway.api\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.application\\payments\\commands\\createpayment\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|solutionrelative:paymentgateway.application\\payments\\commands\\createpayment\\createpaymentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.application\\payments\\queries\\getpaymentbyid\\getpaymentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132183CF-F994-E206-3162-4861E1D69945}|PaymentGateway.Application\\PaymentGateway.Application.csproj|solutionrelative:paymentgateway.application\\payments\\queries\\getpaymentbyid\\getpaymentbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.infrastructure\\persistence\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|solutionrelative:paymentgateway.infrastructure\\persistence\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.infrastructure\\persistence\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|solutionrelative:paymentgateway.infrastructure\\persistence\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\services\\paymentprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\services\\paymentprocessorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\consumers\\paymentrequestconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\consumers\\paymentrequestconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.infrastructure\\kafka\\producers\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D549C111-9DF4-34AE-8970-234C4D5E8778}|PaymentGateway.Infrastructure\\PaymentGateway.Infrastructure.csproj|solutionrelative:paymentgateway.infrastructure\\kafka\\producers\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|c:\\users\\danie\\onedrive\\documentos\\cursos\\projecto-fake-bank\\netcore8-paymentgateway\\paymentgateway\\paymentgateway.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9B6B96-4C0E-ED24-B442-181BC7AB4A7B}|PaymentGateway.Worker\\PaymentGateway.Worker.csproj|solutionrelative:paymentgateway.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Program.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:43:21.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Background\\KafkaBackgroundService.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\Background\\KafkaBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Background\\KafkaBackgroundService.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\Background\\KafkaBackgroundService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T03:28:13.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Application\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "PaymentGateway.Application\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T03:27:39.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "RelativeToolTip": "PaymentGateway.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:53:22.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Persistence\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Infrastructure\\Persistence\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Persistence\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "PaymentGateway.Infrastructure\\Persistence\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:52:27.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\DependencyInjection.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\DependencyInjection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:51:35.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPaymentByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Payments\\Queries\\GetPaymentById\\GetPaymentByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Application\\Payments\\Queries\\GetPaymentById\\GetPaymentByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Payments\\Queries\\GetPaymentById\\GetPaymentByIdQueryHandler.cs",
+              "RelativeToolTip": "PaymentGateway.Application\\Payments\\Queries\\GetPaymentById\\GetPaymentByIdQueryHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:42:44.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePaymentCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Payments\\Commands\\CreatePayment\\CreatePaymentCommand.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Application\\Payments\\Commands\\CreatePayment\\CreatePaymentCommand.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Application\\Payments\\Commands\\CreatePayment\\CreatePaymentCommand.cs",
+              "RelativeToolTip": "PaymentGateway.Application\\Payments\\Commands\\CreatePayment\\CreatePaymentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:42:35.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Api\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Api\\Controllers\\PaymentsController.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Api\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PaymentGateway.Api\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T17:42:10.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRequestConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Consumers\\PaymentRequestConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\Consumers\\PaymentRequestConsumer.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Consumers\\PaymentRequestConsumer.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\Consumers\\PaymentRequestConsumer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:52:26.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentProcessorService.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Services\\PaymentProcessorService.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\Services\\PaymentProcessorService.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Services\\PaymentProcessorService.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\Services\\PaymentProcessorService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:03:05.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Kafka\\Producers\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Infrastructure\\Kafka\\Producers\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Infrastructure\\Kafka\\Producers\\KafkaProducer.cs",
+              "RelativeToolTip": "PaymentGateway.Infrastructure\\Kafka\\Producers\\KafkaProducer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwDMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T16:43:17.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "PaymentGateway.Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\Danie\\OneDrive\\Documentos\\Cursos\\Projecto-Fake-Bank\\NetCore8-PaymentGateway\\PaymentGateway\\PaymentGateway.Worker\\Worker.cs",
+              "RelativeToolTip": "PaymentGateway.Worker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T03:02:57.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

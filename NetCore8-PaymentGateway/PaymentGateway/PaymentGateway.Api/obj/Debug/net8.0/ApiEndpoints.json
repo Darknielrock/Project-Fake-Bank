@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PaymentGateway.Api.Controllers.PaymentsController",
+    "Method": "Create",
+    "RelativePath": "api/Payments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PaymentGateway.Application.Payments.Commands.CreatePayment.CreatePaymentCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

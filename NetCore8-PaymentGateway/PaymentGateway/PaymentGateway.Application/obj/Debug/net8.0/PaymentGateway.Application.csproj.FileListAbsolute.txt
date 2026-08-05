@@ -1,0 +1,17 @@
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Application.deps.json
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Application.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Application.pdb
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Domain.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Domain.pdb
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.csproj.AssemblyReference.cache
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.AssemblyInfoInputs.cache
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.AssemblyInfo.cs
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.csproj.CoreCompileInputs.cache
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentG.2B9B3B4A.Up2Date
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\refint\PaymentGateway.Application.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\PaymentGateway.Application.pdb
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\obj\Debug\net8.0\ref\PaymentGateway.Application.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Shared.dll
+C:\Users\Danie\OneDrive\Documentos\Cursos\Projecto-Fake-Bank\NetCore8-PaymentGateway\PaymentGateway\PaymentGateway.Application\bin\Debug\net8.0\PaymentGateway.Shared.pdb
